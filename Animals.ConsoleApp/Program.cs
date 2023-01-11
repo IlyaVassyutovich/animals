@@ -1,5 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿using Animals.ConsoleApp;
 
-using Animals.ConsoleApp;
-
-CompileTime.Run();
+//CompileTime.Run();
+RunTime.Run();
